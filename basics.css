@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+#f{
+    background-color: rgb(189, 157, 157);
+    color:blue ;
+}
+#s{
+    background-color: blanchedalmond;
+    color: brown;
+}
+.list{
+    background-color: bisque;
+    font-size: larger;
+    color: blueviolet;
+}
+.f2{
+    border: 1px solid brown;
+    background-color: rgb(165, 163, 42);
+    color: aqua;
+    padding-left: 100px;
+}
